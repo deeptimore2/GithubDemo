@@ -1,0 +1,8 @@
+This is the first file agged in the githubproject.
+its part of githumdemo project
+add lines 
+git init
+touch newfile.txt
+git add newfile.txt
+git status
+git commit -m "your message"
