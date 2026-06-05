@@ -3,6 +3,10 @@ its part of githumdemo project
 add lines 
 git init
 touch newfile.txt
-git add newfile.txt
+git avdd newfile.txt
 git status
 git commit -m "your message"
+## now create a new branch .make changes in newfile.txt and then commit the changes in new branch.
+git branch demobranch
+git add newfile.txt
+git commit -m "save changes in file and commit in new branch"
